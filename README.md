@@ -1,6 +1,6 @@
 # [4/5] Exercise Tracker
 
-**SELAMAT!** kamu sudah berhasil menyelesaikan project ketiga [URL Shortener Microservice](https://github.com/dipintoo/freeCodeCamp_Url-Shortner/tree/main). Sekarang kita lanjut ke project keempat dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!.  
+**SELAMAT!** kamu sudah berhasil menyelesaikan project ketiga [URL Shortener Microservice](https://github.com/dipintoo/freeCodeCamp_Url-Shortner/tree/main). Sekarang kita lanjut ke project keempat dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!
 
 Kamu akan membangun sebuah API Node.js menggunakan MongoDB dan [Mongoose](https://www.npmjs.com/package/mongoose) untuk melacak aktivitas latihan/olahraga. Mongoose memudahkan kamu dalam berinteraksi dengan database MongoDB menggunakan JavaScript. Dengan mendefinisikan model, kamu dapat melakukan operasi-operasi seperti menyimpan, mencari, memperbarui, atau menghapus dokumen dalam collection (tabel).  
 
